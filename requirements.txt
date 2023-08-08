@@ -1,0 +1,3 @@
+sagemaker
+gradio
+python-dotenv
